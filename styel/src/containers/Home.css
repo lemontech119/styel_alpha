@@ -1,0 +1,12 @@
+.back_ground {
+    background-image: url("/image/image6.jpg");
+    width: 100%;
+    background-size: cover;
+    background-position: 50%;
+    height: 450px;
+    position: relative;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: rgb(26, 228, 228);
+}
